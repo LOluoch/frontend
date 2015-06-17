@@ -1,0 +1,25 @@
+td{
+	font-family: Arial;
+	padding: 12px 150px 12px 0px;
+
+}
+tr{
+	border: 1px solid #dddddd;
+	
+}
+	
+
+tr:nth-child(even){
+	background-color: #f1f1f1;
+}
+td:first-child{
+	padding-left: 9px;
+}
+tr:first-child{
+	font-weight: bold;
+}
+table{
+	margin: 0px auto;
+	margin-top: 10px;
+}
+

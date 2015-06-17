@@ -1,0 +1,56 @@
+#main{
+	margin: 0px auto;
+	background-color: black;
+	height: 500px;
+	width: 500px;
+	margin-top: 200px;
+	position: relative;
+	}
+
+.sub{
+	height: 200px;
+	width: 200px;	
+	position: absolute;
+	background-color: black;
+	background-image: url(../images/flag.jpg);
+	background-repeat: no-repeat;
+	background-size: 200px;
+}
+#topleft{
+	top: -50px;
+	left: -50px;
+}
+#topright{
+	top: -50px;
+	right: -50px;
+}
+#bottomleft{
+	bottom: -50px;
+	left: -50px;
+}
+#bottomright{
+	bottom: -50px;
+	right: -50px;
+}
+img{
+	position: absolute;
+	top: 163px;
+	left: 100px;
+	
+}
+#in{
+	width: 200px;
+}
+p{
+	padding-top: 100px;
+	color: white;
+	font-size: 20px;
+}
+#top{
+	padding-left: 190px;
+	color: #a83c3c;
+	font-family: serif;
+	font-size: 40px;
+	opacity: 0.4;
+
+}

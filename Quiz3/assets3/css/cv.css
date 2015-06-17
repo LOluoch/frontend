@@ -1,0 +1,54 @@
+body{
+	background-color: #ae8359;
+}
+h2{
+	color:#141547;
+}
+ div{
+	background-color:#ffdc47;
+	width: 400px;
+	height: 800px;
+	text-align: center;
+	display: inline-block;
+	
+}
+#name{
+	color: #141547;
+	text-align: center;
+	text-decoration: underline;
+}
+.fancy{
+	color: #d74e62;
+	text-align: center;
+}
+#second{
+	
+	height: 200px;
+	margin-left: -10px;
+	width: 800px;
+        
+}
+.side {
+	display: inline-block;
+	float: right; 
+	position: absolute;
+}
+* {
+	margin: 20px 20px 20px 20px;
+
+}
+#third {
+	margin-left: 435px;
+	margin-top: -596px;
+	height: 300px;
+	width: 800px;
+}
+#fourth {
+	margin-left: 435px;
+	margin-top: -290px;
+	height: 250px;
+	width: 800px;
+	text-align: left;
+
+}
+

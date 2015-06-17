@@ -1,0 +1,17 @@
+body{
+	background:purple;
+}
+ul li{
+	color:red;
+	background-color:black
+}
+ul li{
+	color:pink;
+}
+ol li{
+	color:yellow;
+	background-color:#ae8359;
+}
+hr {
+	border-top: 1px solid blue;
+}

@@ -1,0 +1,29 @@
+form{
+	margin: 0px auto;
+	width: 300px;
+	border: 1px solid black;
+	border-radius: 5px;
+	padding: 20px;
+	background-color: #67005a;
+}
+.input{
+	height: 20px;
+	padding: 2px;
+	
+}
+label{
+	font-size: 20px;
+	font-family: Lucida;
+}
+#button{
+	width: 100px;
+	height: 40px;
+	background-color: black;
+	color: white;
+	font-style:arial;
+	font-size: 20px;
+}
+html{
+	background-color: black;
+}
+
